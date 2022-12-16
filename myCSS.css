@@ -1,0 +1,185 @@
+.nav_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0091EA;
+    border-radius:10px;
+  }
+  
+  .nav_ul li {
+    float: right;
+  }
+  
+  .nav_ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  .nav_ul li a:hover {
+    background-color: #1A237E;
+  }
+
+.footer_ul{
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1A237E; 
+    border-radius:10px;
+}
+.footer_ul li{
+    float :right;
+    color:white;
+    text-align: center;
+    display: block;
+}
+.footer_ul li  a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+.footer_ul li a:hover{
+    background-color: #0091EA;
+}
+.footer_ul li p{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0px;
+ 
+}
+
+.footer_ul img{
+    width: 20px;
+    
+}
+body {
+      font-family: b nazanin, Tahoma;
+      background-color: #B0BEC5;
+}
+.main_table{
+    color: #c5c900;
+    border-radius:10px;
+    background-color: #6d6d6d;
+    height:  550px;
+    width: 100%;
+    border-color: black;
+}
+.main_table tr{
+    direction: rtl;
+    text-align: right;
+}
+.main_table th,td{
+    text-align: center;
+}
+.main_table p{
+    font-size: 18pt;
+}
+.achiv_table{
+    color: #ffffff;
+    border-radius:10px;
+    background-color: #1f48ff;
+    height:  550px;
+    width: 100%;
+    border-color: black;
+}
+.achiv_table ul,h2{
+    
+    text-align: right;
+    direction: rtl;
+}
+.achiv_table p{
+    font-size: 25pt;
+    font-weight: bold;
+    text-align: right;
+    direction: rtl;
+}
+.achiv_table img{
+    width: 350px;
+    border-radius: 15px;
+    box-shadow:black 3px 3px;
+
+}
+.skill_table{
+    color: #383838;
+    border-radius:10px;
+    background-color: #95d8ff;
+    height:  550px;
+    width: 100%;
+    border-color: black;
+}
+.skill_table ul,h2{
+    text-align: left;
+    direction: ltr;
+}
+.skill_table img{
+    width: 450px;
+    border-radius: 15px;
+    box-shadow:black 3px 3px;
+}
+.intro_table{
+    color: #424242;
+    border-radius:10px;
+    background-color: #299440;
+    height:  550px;
+    width: 100%;
+    border-color: black;
+}
+.intro_table ul,h2{
+    
+    text-align: right;
+    direction: rtl;
+}
+.p_head{
+    font-size: 25pt;
+    font-weight: bold;
+    text-align: right;
+    direction: rtl;
+}
+.p_text{
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: right;
+    direction: rtl;
+}
+.intro_table img{
+    width: 350px;
+    border-radius: 15px;
+    box-shadow:black 3px 3px;
+
+}
+.contact_table{
+    color: #ffffff;
+    border-radius:10px;
+    background-color: #818181;
+    height:  550px;
+    width: 100%;
+    border-color: black;
+}
+.contact_table ul,h2,form{
+    
+    text-align: right;
+    direction: rtl;
+}
+.contact_table p{
+    font-size: 25pt;
+    font-weight: bold;
+    text-align: right;
+    direction: rtl;
+}
+.contact_table img{
+    width: 350px;
+    border-radius: 15px;
+    box-shadow:black 3px 3px;
+
+}
+.contact_table textarea,input{
+    width: 100%;
+}
